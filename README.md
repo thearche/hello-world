@@ -1,2 +1,2 @@
 # hello-world
-Short description.
+An even longer description, including necessary infos.
